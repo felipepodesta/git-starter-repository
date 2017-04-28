@@ -47,6 +47,6 @@ The MIT License (MIT). Please see [License File](license.md) for more informatio
 
 (c) 2017 Freela Certo, Some rights reserved.
 
-[author]:         <https://felipepodesta.com.br>
+[author]: <https://felipepodesta.com.br>
 [twitter]: <https://twitter.com/felipepodesta>
-[email]:   <mailto:contato@felipepodesta.com>
+[email]: <mailto:contato@felipepodesta.com>
