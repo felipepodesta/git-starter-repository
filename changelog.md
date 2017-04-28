@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](contributing.md).
 ## v0.0.1 - 2017-04-28
 
 - Added @github templates for issues, pull requests and contributions
+- Added @editorconfig .editconfig
+- Added @git .gitignore
+- Added @git .gitattributes
 
 ## v0.0.0 - 2017-04-28
 
